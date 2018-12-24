@@ -1,0 +1,10 @@
+﻿  Knapsack.cpp
+c:\курс_2\аистрд\backpackproblem\backpackproblem\knapsack.cpp(10): warning C4018: <: несоответствие типов со знаком и без знака
+c:\курс_2\аистрд\backpackproblem\backpackproblem\knapsack.cpp(18): warning C4018: <: несоответствие типов со знаком и без знака
+c:\курс_2\аистрд\backpackproblem\backpackproblem\knapsack.cpp(19): warning C4018: <=: несоответствие типов со знаком и без знака
+  KnapsackFileInput.cpp
+  Main.cpp
+  List.cpp
+  Thing.cpp
+  Создание кода...
+  BackpackProblem.vcxproj -> C:\Курс_2\АиСтрД\BackpackProblem\Debug\BackpackProblem.exe

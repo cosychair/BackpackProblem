@@ -115,6 +115,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Knapsack.cpp" />
+    <ClCompile Include="KnapsackFileInput.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="List.cpp" />
+    <ClCompile Include="Thing.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Iterator.h" />
+    <ClInclude Include="Knapsack.h" />
+    <ClInclude Include="KnapsackFileInput.h" />
+    <ClInclude Include="List.h" />
+    <ClInclude Include="Thing.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

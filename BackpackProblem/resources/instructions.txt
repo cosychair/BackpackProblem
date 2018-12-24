@@ -1,0 +1,8 @@
+In this file you could find an example of input file structure.
+
+It must have a name "things.txt".
+
+Inside the file:
+You should print a number of things, which are below in this file, on the first string.
+You should print a size of knapsack on the second string.
+Ohter strings must be like this string: chair*10*10*10 (name*integer number of weight*integer number of value*integer number of amount).

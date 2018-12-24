@@ -1,0 +1,6 @@
+24 - amount of things
+-25 - knapsack size //Name*weight*value*amount
+chair*10*10*10
+beetroot*2*1*10
+bottle of water*3*4*10
+mouse*1*3*2
